@@ -21,7 +21,7 @@ public class MonHoc {
     }
 
     public String getLine(){
-        return tenMH + "\\?" + soHocPhan+ "\n";
+        return tenMH + "?" + soHocPhan+ "\n";
     }
     
     public void parem(String line){
